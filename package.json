@@ -1,0 +1,17 @@
+{
+  "name": "worx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "fs": "^0.0.1-security",
+    "json": "^11.0.0",
+    "path": "^0.12.7"
+  }
+}
